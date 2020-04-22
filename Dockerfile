@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER abbasi <abbasigg@gmail.com>
+MAINTAINER 
 
 
 COPY ./install.sh /
